@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="entrepreneur" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAABAAAQAAAEAUAAQCAAAgCAAAAAA=</HashCode>
+      <FileName>entrepreneur.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tourist" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAEAAAAAUAQACQEAAIAAAAgAAAAAQA=</HashCode>
+      <FileName>tourist.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="human" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BIAEAAAAAIAAAAAAAAAAAAgAAAAEAAAAAAAgAAQAQAA=</HashCode>
+      <FileName>human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="business" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAyAAAAIEAAAAAAAgAAAAAEA=</HashCode>
+      <FileName>business.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="list&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAABACAIAAAAgAAAEEAAACgAAAAAAgCAA=</HashCode>
+      <FileName>list.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Interface&lt;T&gt;" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAIAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Tax" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAA=</HashCode>
+      <FileName>entrepreneur.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Broad" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAQAAAAA=</HashCode>
+      <FileName>tourist.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Address" Collapsed="true">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>business.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="List&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAIAAAA=</HashCode>
+      <FileName>list.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
